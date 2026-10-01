@@ -1,0 +1,14 @@
+{
+  "name": "verwertung-online",
+  "version": "32.0.0",
+  "description": "Verwertung erfassen – gemeinsames Online-Tool für mehrere Mitarbeiter",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "start": "node --disable-warning=ExperimentalWarning server.js"
+  },
+  "engines": {
+    "node": ">=22.13"
+  },
+  "license": "UNLICENSED"
+}
